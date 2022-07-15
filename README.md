@@ -13,13 +13,14 @@ We were asked to create a console app where:
 It was a simple application but I have applied most of the concepts that I have learned throughout the course like:
 
 * Object Oriented Programming (OOP)
-  * Control Statements
   * Classes
   * Objects
   * Constructor
   * Destructor
   * Access Modifiers
   * Encapsulation
+  
+* Control Statements
 * Loops
 * Functions
 * Arrays
