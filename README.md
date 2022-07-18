@@ -31,7 +31,7 @@ It was a simple application but I have applied most of the concepts that I have 
 You can find the course's curriculum [here](https://itsharks.co/c/mobile-app/course/c-plus-plus).
 
 I also want to mention that I was asked to create only one project but I was able to create 2 projects
- (You can find the other one [here](https://github.com/HusseinSamy/Basic-Library-System-August-2021-)) while 
+ (You can find the other one [here](https://github.com/HusseinSamy/Basic-Library-System-August-2021)) while 
  all my fellows were struggling creating their first project and I was honored for being a top-notch student 
  and discussed how I have built the project in front of all the class.
 
