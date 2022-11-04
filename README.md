@@ -7,8 +7,8 @@ We were asked to create a console app where:
 * Admins can:
   * Add, Remove, Update Accounts.
 * Users can:
- * Create account
- * Withdraw, Deposit money to their account
+  * Create account
+  * Withdraw, Deposit money to their account
 
 It was a simple application but I have applied most of the concepts that I have learned throughout the course like:
 
